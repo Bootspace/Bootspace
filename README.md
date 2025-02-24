@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **express.js, REST API, GraphQL, SQL and NOSQL Databases.**
 
-- 📫 How to reach me **[Get in Touch]**(https://portfolio-tau-amber-73.vercel.app/)
+- 📫 How to reach me [**Get in Touch**](https://portfolio-tau-amber-73.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
